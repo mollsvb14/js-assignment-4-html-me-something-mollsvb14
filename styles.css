@@ -1,1 +1,23 @@
-/* Write your CSS here! */
+body {
+    background-color: #FFFDD0;
+    margin: 8px;
+}
+h1{
+    padding: 1.5rem 0;
+    text-align: center;
+}
+h2{
+    margin: 5 auto;
+}
+P{
+    color:mediumseagreen;
+}
+
+#mainHeading{
+    color:red;
+}
+
+.fun-paragraph{
+    color:green;
+}
+
